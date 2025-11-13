@@ -2,8 +2,6 @@
 
 **welcome to the personal homepage of the beginning github user Kyrie**  
 
-*my github personal homepage: [github](https://github.com/KyireZhang329)*
-
 I'm currently an undergraduate(2025-2029) at Xidian University, majoring in Computer class(intelligence), due to the fact that we haven't choose the specific major.  
 And I graduated from The High School Affiliated to SUSTech in Shenzhen in the June,2025.
 Wish I will get somewhere in the future.

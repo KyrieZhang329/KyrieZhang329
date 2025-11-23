@@ -9,7 +9,7 @@ Wish I will get somewhere in the future.
 As a beginner,I'm studious to learn some courses and study to use some practical tools,and I hope that I can conclude useful experience to you.   
 Currently, I have make a Markdown grammar conclusion text,which is in my repository named the same name of my github profile.Moreover, I'm keeping uploading the practice question and code of my programming course,now.
 
-*If you want to contact me or seek coorperation with me, please send email to zj.kyrie.zhang@gmail.com*
+*If you want to contact me or seek coorperation with me, please send email to zjZhang0424@gmail.com*
 <!--
 **KyrieZhang329/KyrieZhang329** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

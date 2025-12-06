@@ -11,7 +11,11 @@ As a beginner,I'm studious to learn some courses and study to use some practical
 
 To learn more about details, please come to [kyriezhang329.github.io](https://kyriezhang329.github.io/).      
 
-*If you want to contact me or seek coorperation with me, please send email to zjZhang0424@gmail.com*
+*If you want to contact me or seek coorperation with me, please send email to zjzhang0424@gmail.com*
+
+
+
+
 
 <!--
 **KyrieZhang329/KyrieZhang329** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

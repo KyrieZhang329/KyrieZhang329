@@ -1,13 +1,11 @@
-Hi👋 I‘m zhijun
-
-welcome to my github
+# Hi👋 I‘m zhijun
+**welcome to my github**
 
 About me:
-
-🎓 Undergraduate student @Xidian University(XDU)
+🎓 Undergraduate student @Xidian University(XDU)   
 ⚙️ Member of the algorithm group of XDU IRobot (Robomaster squad)
 <br>
-🤖 Currently focusing on UAV Optimization algorithm and MARL.
+🤖 Currently focusing on UAV Optimization algorithm and MARL.    
 💡 Passionate about exploring in the intersection of Robotics(Control) and AI(Learning).
 <br>
 💬 Ask me anything!

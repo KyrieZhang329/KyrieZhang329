@@ -1,7 +1,7 @@
 # Hi👋 I‘m zhijun
 **welcome to my github**
 
-About me:
+### About me:     
 🎓 Undergraduate student @Xidian University(XDU)   
 ⚙️ Member of the algorithm group of XDU IRobot (Robomaster squad)
 

@@ -7,8 +7,8 @@
 
 
 
-🤖 Currently focusing on learning-augmented optimization algorithm of UAV.    
-💡 Passionate about exploring in the intersection of Robotics(Control) and AI(Learning).
+🤖 Currently focusing on learning-augmented optimization for autonomous UAV navigation, exploration, and decision-making.    
+💡 Passionate about exploring in the intersection of Robotics (Control) and AI (Learning).
 
 
 
